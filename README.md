@@ -1,2 +1,2 @@
 # thesis
-Pluralism Project
+
